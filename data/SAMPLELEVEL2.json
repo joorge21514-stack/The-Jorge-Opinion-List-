@@ -1,12 +1,18 @@
 {
-    "id": 57436521,
-    "name": "SAMPLELEVEL2",
-    "author": "Solo_Creator",
-    "creators": [],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": "100",
-    "password": "Free To Copy",
+    "id": 119544028,
+    "name": "Amethyst",
+    "author": "iMist",
+    "creators": ["Bedrock"],
+    "verifier": "Wpopoff",
+    "verification": "https://youtu.be/4lfkzz1VCbA?si=YoEXr9LE9_G8vRZc",
+    "percentToQualify": 67,
+    "password": "Free Copy",
     "records": [
+        {
+            "user": "wpopoff",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 0,
+            "hz": 0
+        }
     ]
 }
