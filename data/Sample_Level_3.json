@@ -1,24 +1,18 @@
 {
-    "id": 57436521,
-    "name": "Sample Level 3",
-    "author": "Different Publisher",
-    "creators": ["Solo_Creator"],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": "100",
-    "password": "46290",
+    "id": 119544028,
+    "name": "Thinking Space II",
+    "author": "MYS",
+    "creators": ["meatius"],
+    "verifier": "Zoink",
+    "verification": "https://pie.yt/?v=https://youtu.be/CELNmHwln_c?si=w7hoZYUrpI6YvczM&pieshare=1",
+    "percentToQualify": 67,
+    "password": "Free Copy",
     "records": [
         {
-            "user": "Sample_Victor_1",
+            "user": "wpopoff",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Sample_Victor_2",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 120
+            "percent": 0,
+            "hz": 0
         }
     ]
 }
